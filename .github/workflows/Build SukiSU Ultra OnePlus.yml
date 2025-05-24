@@ -121,8 +121,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "inkpixe1"
-          git config --global user.email "inkpixel@proton.me"
+          git config --global user.name "Numbersf"
+          git config --global user.email "263623064@qq.com"
 
       - name: Install dependencies
         run: |
